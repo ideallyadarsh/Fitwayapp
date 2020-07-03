@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52253038802",
+    "firebase_url": "https://fitway07.firebaseio.com",
+    "project_id": "fitway07",
+    "storage_bucket": "fitway07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52253038802:android:13a583063e734832f0f50b",
+        "android_client_info": {
+          "package_name": "com.ideal.fitwaylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52253038802-rmkn6b8kbh27qtr6jsvghq5ihurl19ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5F6E4rhykKdMeFqfldlP728W6tDRoXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52253038802-rmkn6b8kbh27qtr6jsvghq5ihurl19ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
